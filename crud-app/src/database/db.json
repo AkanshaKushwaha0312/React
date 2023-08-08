@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Akansha",
+      "username": "AkanshaKushwaha",
+      "email": "akansha@gmail.com",
+      "phone": "123456789",
+      "id": 1
+    },
+    {
+      "name": "Dhoni",
+      "username": "MSDhoni",
+      "email": "dhoni@gmail.com",
+      "phone": "+916360432612",
+      "id": 2
+    },
+    {
+      "name": "virat",
+      "username": "ViratKohli",
+      "email": "Virat@gmail.com",
+      "phone": "6724827429",
+      "id": 5
+    },
+    {
+      "name": "ZIA",
+      "username": "zia",
+      "email": "zia@gmail.com",
+      "phone": "09960647671",
+      "id": 6
+    }
+  ]
+}
